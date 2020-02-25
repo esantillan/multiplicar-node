@@ -8,19 +8,19 @@ Primero ejecutar:
 
 Para ver una tabla de multiplicar ejecutar:
 
-node app listar --base 2 
+``node app listar --base 2``
 
 También acepta alias como
 
-node app listar -b 2 
+``node app listar -b 2``
 
 y es posible ejecutarlo también
 
-node app listar --base=2 
+``node app listar --base=2``
 
 o
 
-node app listar -b=2 
+``node app listar -b=2``
 
 
 
