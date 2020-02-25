@@ -4,7 +4,7 @@ Esta es una aplicación para generar archivos de tablas de multiplicar
 
 Primero ejecutar:
 
-````npm install
+``npm install``
 
 Para ver una tabla de multiplicar ejecutar:
 
